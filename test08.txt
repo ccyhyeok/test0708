@@ -9,3 +9,5 @@ testtesttesttsetsetstㅈ비갈래
 테스트 테스트 세트스 테스 트 세트 
 문경록 branch 테스트 
 >>>>>>> 8cc7cd40627938461c15faf87f1237172b8fafe2
+
+안 되면 다음주로
